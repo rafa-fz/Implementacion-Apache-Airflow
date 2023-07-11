@@ -1,0 +1,2 @@
+exit
+mongod --port 27018
