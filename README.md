@@ -1,9 +1,5 @@
 # Implementació de APache Airflow
 
-# Ejemplo de Apache Airflow: Obtener los datos de una API y MongoDB, 
-
-Este ejemplo demuestra la implementación de un DAG (Grafo Acíclico Dirigido) de Apache Airflow que obtiene datos de una API y MongoDB, los une y guarda el resultado en otra colección de MongoDB. El DAG está programado para ejecutarse cada 5 minutos a partir del 11 de julio de 2023.
-
 ## Detalles del DAG
 
 - **ID del DAG**: DATA-EJERCICIO
