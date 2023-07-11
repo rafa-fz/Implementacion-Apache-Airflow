@@ -1,4 +1,4 @@
-# Implementació de APache Airflow
+# Implementación de APache Airflow
 
 ## Detalles del DAG
 
